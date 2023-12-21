@@ -34,4 +34,4 @@
 - 📫 How to reach me: Message on either LinkedIn or Instagram
 - ⚡ Fun fact: Im an independent songwriter and artist on my free time!
 
-_  _ _   _ _ __________ _ _  _    _
+
