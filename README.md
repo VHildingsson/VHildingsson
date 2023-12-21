@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
  - [Apply Filters To SQL Queries Home Lab](https://github.com/VHildingsson/ActiveDirectory/tree/main)
- - [Correct File Permissions in Linux Home Lab](https://github.com/VHildingsson/ActiveDirectory/tree/main)
+ - [Correct File Permissions in Linux Home Lab](https://github.com/VHildingsson/PermissionsLinux)
 
 <h2>Certifications</h2>
 
