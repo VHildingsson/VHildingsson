@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
- - [Active Directory Home Lab](https://github.com/VHildingsson/LABURL)
+ - [Active Directory Home Lab](https://github.com/VHildingsson/ActiveDirectory/tree/main)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
