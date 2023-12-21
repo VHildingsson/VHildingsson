@@ -10,14 +10,6 @@
 
 - [Google Cybersecurity](certificationlink)
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/viggo_hilding_sson/
-[linkedin]: https://www.linkedin.com/in/viggo-hildingsson/
-
 <h2>About Me</h2>
 
 - 🔭 I’m currently working on developing my skills in Linux and SQL
@@ -27,4 +19,11 @@
 - 📫 How to reach me: Message on either LinkedIn or Instagram
 - ⚡ Fun fact: Im an independent songwriter and artist on my free time!
 
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/viggo_hilding_sson/
+[linkedin]: https://www.linkedin.com/in/viggo-hildingsson/
 
