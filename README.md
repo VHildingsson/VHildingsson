@@ -10,11 +10,6 @@
 
 - [Google Cybersecurity](certificationlink)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial Active Directory Home Lab ](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
