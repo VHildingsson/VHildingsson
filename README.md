@@ -33,4 +33,5 @@
 - 💬 Ask me about anything Star Wars related and I got you
 - 📫 How to reach me: Message on either LinkedIn or Instagram
 - ⚡ Fun fact: Im an independent songwriter and artist on my free time!
--->
+
+__(\___/)_(\_____/)__/)____(\________/)_________________(\_____/)_______________ _ _  _    _
