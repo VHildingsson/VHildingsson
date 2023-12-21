@@ -6,7 +6,7 @@
 
 <h2>Certifications</h2>
 
-- [Google Cybersecurity](certificationlink)
+- [Google Cybersecurity](https://i.imgur.com/ERPFPDs.jpg)
 
 <h2>About Me</h2>
 
