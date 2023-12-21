@@ -6,7 +6,11 @@
 
 <h2>Certifications</h2>
 
-- [Google Cybersecurity](https://i.imgur.com/ERPFPDs.jpg)
+- [Foundations in Cybersecurity](https://i.imgur.com/ERPFPDs.jpg)
+- [Play it Safe: Manage Security Risks](https://i.imgur.com/srHSiDN.jpg)
+- [Connect and Protect: Networks and Network Security](https://i.imgur.com/wvJaDse.jpg)
+- [Tools of the Trade: Linux and SQL](https://i.imgur.com/ptw4RVm.jpg)
+- [Assets, Threats and Vulnerabilities](https://i.imgur.com/b0qSQSW.jpg)
 
 <h2>About Me</h2>
 
