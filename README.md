@@ -1,4 +1,4 @@
-<h1>Hi, I'm Viggo! <br/>< <a href="https://www.linkedin.com/in/viggo-hildingsson/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Viggo! <br/>< <a href="https://www.linkedin.com/in/viggo-hildingsson/"Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
