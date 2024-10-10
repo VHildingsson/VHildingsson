@@ -1,4 +1,4 @@
-<h1>Hi, I'm Viggo! <br/><a href="https://www.linkedin.com/in/viggo-hildingsson/">Cybersecurity Student</a></h1>
+<h1>Hi, I'm Viggo! <br/><a href="https://www.linkedin.com/in/viggo-hildingsson/">Game Dev Student</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -15,7 +15,7 @@
 
 <h2>About Me</h2>
 
-- 🔭 I’m currently studying for a Bachelors Degree in Computer Science
+- 🔭 I’m currently studying for a Bachelors Degree in Computer Science at Stockholm University
 - 🌱 I’m currently learning C#, HTML, Python and more
 - 🤔 I’m looking for jobs that hopefully kickstart my IT / Game Dev career
 - 💬 Ask me about anything Star Wars related and I got you
