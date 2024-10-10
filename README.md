@@ -15,9 +15,9 @@
 
 <h2>About Me</h2>
 
-- 🔭 I’m currently working on developing my skills in Linux and SQL
-- 🌱 I’m currently learning Python and studying towards passing the Security+ Exam
-- 🤔 I’m looking for jobs that hopefully can kickstart my IT career
+- 🔭 I’m currently studying for a Bachelors Degree in Computer Science
+- 🌱 I’m currently learning C#, HTML, Python and more
+- 🤔 I’m looking for jobs that hopefully kickstart my IT / Game Dev career
 - 💬 Ask me about anything Star Wars related and I got you
 - 📫 How to reach me: Message on either LinkedIn or Instagram
 - ⚡ Fun fact: Im an independent songwriter and artist on my free time!
