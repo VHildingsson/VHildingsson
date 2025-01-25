@@ -18,7 +18,7 @@
 - 🔭 I’m currently studying for a Bachelors Degree in Computer Science at Stockholm University
 - 🌱 I’m currently learning C#, HTML, Python and more
 - 🤔 I’m looking for jobs that hopefully kickstart my IT / Game Dev career
-- 💬 Ask me anything Elden Ring and i gotchu
+- 💬 Ask me anything about Elden Ring and I gotchu
 - 📫 How to reach me: Message on either LinkedIn or Instagram
 - ⚡ Fun fact: Im an independent songwriter and artist on my free time!
 
