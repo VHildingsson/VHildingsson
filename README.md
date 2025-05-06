@@ -1,32 +1,56 @@
-<h1>Hi, I'm Viggo! <br/><a href="https://www.linkedin.com/in/viggo-hildingsson/">Game Dev Student</a></h1>
+<h1 align="center">Hi, I'm Viggo! 👋</h1>
+<p align="center">
+  🎮 Game Dev Student | 🛡️ Cybersecurity Enthusiast | 🎵 Musician
+</p>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/viggo-hildingsson/">
+    <img src="https://img.shields.io/badge/LinkedIn-Viggo%20Hildingsson-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/viggo_hilding_sson/">
+    <img src="https://img.shields.io/badge/Instagram-@viggo_hilding_sson-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
- - [Apply Filters To SQL Queries Home Lab](https://github.com/VHildingsson/ActiveDirectory/tree/main)
- - [Correct File Permissions in Linux Home Lab](https://github.com/VHildingsson/PermissionsLinux)
+---
 
-<h2>Certifications</h2>
+## 🧠 Cybersecurity Projects
 
-- [Foundations in Cybersecurity](https://i.imgur.com/ERPFPDs.jpg)
-- [Play it Safe: Manage Security Risks](https://i.imgur.com/srHSiDN.jpg)
-- [Connect and Protect: Networks and Network Security](https://i.imgur.com/wvJaDse.jpg)
-- [Tools of the Trade: Linux and SQL](https://i.imgur.com/ptw4RVm.jpg)
-- [Assets, Threats and Vulnerabilities](https://i.imgur.com/b0qSQSW.jpg)
+- 🔍 [**Apply Filters To SQL Queries**](https://github.com/VHildingsson/ActiveDirectory/tree/main)  
+  Practicing SQL injection mitigation and Active Directory filtering in a home lab setup.
 
-<h2>About Me</h2>
+- 🔐 [**Correct File Permissions in Linux**](https://github.com/VHildingsson/PermissionsLinux)  
+  Focused on securing files and directories by applying proper permission schemes in Linux.
 
-- 🔭 I’m currently studying for a Bachelors Degree in Computer Science at Stockholm University
-- 🌱 I’m currently learning C#, HTML, Python and more
-- 🤔 I’m looking for jobs that hopefully kickstart my IT / Game Dev career
-- 💬 Ask me anything about Elden Ring and I gotchu
-- 📫 How to reach me: Message on either LinkedIn or Instagram
-- ⚡ Fun fact: Im an independent songwriter and artist on my free time!
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 🏅 Certifications
 
-[<img align="left" alt="ViggoHildingsson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ViggoHildingsson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+| Title | Badge |
+|-------|-------|
+| Foundations in Cybersecurity | ![View](https://img.shields.io/badge/View-Certificate-blue) [🔗](https://i.imgur.com/ERPFPDs.jpg) |
+| Play it Safe: Manage Security Risks | ![View](https://img.shields.io/badge/View-Certificate-blue) [🔗](https://i.imgur.com/srHSiDN.jpg) |
+| Networks and Network Security | ![View](https://img.shields.io/badge/View-Certificate-blue) [🔗](https://i.imgur.com/wvJaDse.jpg) |
+| Tools of the Trade: Linux and SQL | ![View](https://img.shields.io/badge/View-Certificate-blue) [🔗](https://i.imgur.com/ptw4RVm.jpg) |
+| Assets, Threats and Vulnerabilities | ![View](https://img.shields.io/badge/View-Certificate-blue) [🔗](https://i.imgur.com/b0qSQSW.jpg) |
 
-[instagram]: https://www.instagram.com/viggo_hilding_sson/
-[linkedin]: https://www.linkedin.com/in/viggo-hildingsson/
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Studying Computer Science at Stockholm University
+- 🧠 Learning C#, HTML, Python, and more
+- 🚀 Looking for opportunities to launch a career in IT or Game Dev
+- 💬 Ask me anything about **Elden Ring** – seriously
+- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/viggo-hildingsson/) or [Instagram](https://www.instagram.com/viggo_hilding_sson/)
+- 🎧 Fun fact: I write and release music independently!
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VHildingsson&show_icons=true&theme=default" />
+</p>
+
 
