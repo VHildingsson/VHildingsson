@@ -37,8 +37,6 @@ I specialize in creating symbolic, dreamlike compositions that delve into themes
 
 ## 🏅 Certification
 
-[![Google Cybersecurity Certificate](https://images.credly.com/size/340x340/images/2fc4dab5-b83a-4ddb-a9d0-2b8d4d62c66f/image.png)](https://www.credly.com/badges/c7d7e221-6ba6-4423-be20-2155d27df3ec/linked_in_profile)
-
 - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/c7d7e221-6ba6-4423-be20-2155d27df3ec/linked_in_profile)
 
 ---
