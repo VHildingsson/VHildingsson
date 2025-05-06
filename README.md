@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Viggo! 👋</h1>
 <p align="center">
-  🎮 Game Dev Student | 🛡️ Cybersecurity Enthusiast | 🎵 Musician
+  🎮 Game Dev Student | 🛡️ Cybersecurity Enthusiast | 🎵 Musician | 🌱 Artist
 </p>
 
 <p align="center">
@@ -10,7 +10,18 @@
   <a href="https://www.instagram.com/viggo_hilding_sson/">
     <img src="https://img.shields.io/badge/Instagram-@viggo_hilding_sson-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.artstation.com/vildingsson">
+    <img src="https://img.shields.io/badge/ArtStation-@vildingsson-0A0A0A?style=flat&logo=artstation&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 🎨 ArtStation Preview
+
+[![ArtStation](assets/artstation-preview.gif)](https://www.artstation.com/vildingsson)
+
+> 🔗 Click the preview to visit my ArtStation portfolio
 
 ---
 
@@ -24,25 +35,21 @@
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certification
 
-| Title | Badge |
-|-------|-------|
-| Foundations in Cybersecurity | ![View](https://img.shields.io/badge/View-Certificate-blue) [🔗](https://i.imgur.com/ERPFPDs.jpg) |
-| Play it Safe: Manage Security Risks | ![View](https://img.shields.io/badge/View-Certificate-blue) [🔗](https://i.imgur.com/srHSiDN.jpg) |
-| Networks and Network Security | ![View](https://img.shields.io/badge/View-Certificate-blue) [🔗](https://i.imgur.com/wvJaDse.jpg) |
-| Tools of the Trade: Linux and SQL | ![View](https://img.shields.io/badge/View-Certificate-blue) [🔗](https://i.imgur.com/ptw4RVm.jpg) |
-| Assets, Threats and Vulnerabilities | ![View](https://img.shields.io/badge/View-Certificate-blue) [🔗](https://i.imgur.com/b0qSQSW.jpg) |
+### Google Cybersecurity Certificate  
+<img src="assets/cyber-career-certificate.png" alt="Google Cybersecurity Certificate" width="200"/>
+
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying Computer Science at Stockholm University
-- 🧠 Learning C#, HTML, Python, and more
-- 🚀 Looking for opportunities to launch a career in IT or Game Dev
+- 🎓 Studying Game Development at Stockholm University (DSV – Department of Computer and Systems Sciences)
+- 🧠 Learning C#, Java, Python, and more
+- 🚀 Looking for opportunities to launch a career in Game Development
 - 💬 Ask me anything about **Elden Ring** – seriously
-- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/viggo-hildingsson/) or [Instagram](https://www.instagram.com/viggo_hilding_sson/)
+- 📬 Find me on [LinkedIn](https://www.linkedin.com/in/viggo-hildingsson/) or [Instagram](https://www.instagram.com/viggo_hilding_sson/)
 - 🎧 Fun fact: I write and release music independently!
 
 ---
@@ -52,5 +59,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VHildingsson&show_icons=true&theme=default" />
 </p>
-
-
