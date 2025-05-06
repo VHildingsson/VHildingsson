@@ -19,9 +19,10 @@
 
 ## 🎨 ArtStation Preview
 
-[![ArtStation](assets/artstation-preview.gif)](https://www.artstation.com/vildingsson)
+[![ArtStation Preview](assets/artstation-preview.png)](https://www.artstation.com/vildingsson)
 
 > 🔗 Click the preview to visit my ArtStation portfolio
+
 
 ---
 
@@ -37,9 +38,7 @@
 
 ## 🏅 Certification
 
-### Google Cybersecurity Certificate  
-<img src="assets/cyber-career-certificate.png" alt="Google Cybersecurity Certificate" width="200"/>
-
+- Google Cybersecurity Certificate 
 
 ---
 
